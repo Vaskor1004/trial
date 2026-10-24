@@ -33,6 +33,7 @@ int main()
         }
         cout<<endl;
     }
+    cout<<"Nice"<<endl;
 
     return 0;
 }
